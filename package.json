@@ -1,0 +1,24 @@
+{
+  "name": "annkani.ga",
+  "version": "0.0.1",
+  "description": "my personal blog",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node_modules/.bin/firebase serve -p 8980 -o 0.0.0.0",
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "deploy": "node_modules/.bin/firebase deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annkaniga/annkani.ga.git"
+  },
+  "author": "Ann Kaniga <iam@annkani.ga>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/annkaniga/annkani.ga/issues"
+  },
+  "homepage": "https://github.com/annkaniga/annkani.ga#readme",
+  "devDependencies": {
+    "firebase-tools": "^3.18.0"
+  }
+}
