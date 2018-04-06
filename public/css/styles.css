@@ -419,11 +419,11 @@ body .ann-blog {
 .ann-blog .minilogo {
   width: 44px;
   height: 44px;
-  background-image: url('../images/avatar.png');
+  background-image: url('../images/me.jpg');
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 50%;
-  border-radius: 22px;
+  background-size: 100%;
+  border-radius: 50%;
   background-color: #F5F5F5;
 }
 
